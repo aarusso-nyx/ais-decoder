@@ -31,7 +31,6 @@
     "prepublishOnly": "npm test",
     "preversion": "npm test"
   },
-  "dependencies": {},
   "devDependencies": {
     "@types/chai": "^4.2.14",
     "@types/mocha": "^8.2.0",
@@ -42,7 +41,7 @@
     "eslint": "^7.6.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-prettier": "^3.1.4",
-    "mocha": "^8.2.1",
+    "mocha": "^10.7.3",
     "ts-node": "^9.0.0",
     "typescript": "^3.9.7"
   }
